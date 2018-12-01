@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(112, 111, 111);
+    background-blend-mode: color-burn;
+    font-family: sans-serif, Arial, Helvetica;
+    font-size: 1em;
+    text-align: center;
+}
+
+
+#wip2 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10pc;
+}
+
+#hi {
+    margin-top: 75px;
+    margin-bottom: 38px;
+    font-size: 100px;
+    min-width: 250px;
+}
+
+.generalStyle {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+#wip1 {
+    width: inherit;
+    height: 400px;
+    margin-top: 50px;
+    border-color: orangered;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+/* Footer */
+
+footer {
+    padding: 15px;
+    margin-top: 15px;
+    color: #ffffff;
+    background-color: #343a40;
+    text-align: center;
+}
